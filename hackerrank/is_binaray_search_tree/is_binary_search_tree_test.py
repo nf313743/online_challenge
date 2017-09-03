@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import unittest
 from is_binary_search_tree import IsBinarySearchTree
 from is_binary_search_tree import Node
